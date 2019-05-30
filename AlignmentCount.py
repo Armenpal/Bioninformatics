@@ -1,8 +1,7 @@
 #!/usr/bin/python
 import math
 '''
-  The purpose of this program, which is not complete, since we were
-developing it in class, is to calculate Sij = log2(Mij/Eij), for one
+  The purpose of this program is to calculate Sij = log2(Mij/Eij), for one
 pair of amino acids, i and j.  Sij is one value in the substitution matrix.
 Calculate also Sii and Sjj.
 '''
